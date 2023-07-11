@@ -2,6 +2,7 @@
 
 -  First, confirm that you have Python 3.6+ running on your machine
 -  Download the source code to a folder
+-  Open your terminal
 -  Use "pip install virtualenv" to create an isolated virtual development environment
 -  Run "virtualenv venv" to create a virtual environment
 -  Activate the virutal environment by running:
