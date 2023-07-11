@@ -5,9 +5,9 @@
 -  Use "pip install virtualenv" to create an isolated virtual development environment
 -  Run "virtualenv venv" to create a virtual environment
 -  Activate the virutal environment by running:
-    #  On Windows
+    #On Windows
    ./venv/Scripts/activate
-    #  On Mac
+    #On Mac
    source venv/bin/activate
 -  Use "pip install -r requirements.txt" to install required packages
 -  Go to .env and put URL for your database
